@@ -1,0 +1,40 @@
+/* header-customiztion */
+
+.white-color{
+    color: #FFFFFF !important ;
+}
+.header-background{
+
+    background-color: #264653 !important;
+}
+.button-color{
+    
+    background: #E76F51 !important;
+
+}
+
+/* main-section-customization */
+
+.primary-color{
+    color: #E76F51  !important;
+}
+        /* featur-bike-customiztion */
+
+        .img-grayscale
+        {
+            filter: grayscale(1);
+        }
+
+        /* client-feedback */
+        .photo-client
+        {
+            width: 149px;
+            height: 149px;
+        }
+        /* ratings */
+
+        .yellow-color{
+            color: #d69212;
+
+
+        }
